@@ -11,9 +11,9 @@
 
 ### Contact me via:
 
-[<img align="left" alt="channel/UCQoL6twbRHSB8Hy-WLx0rxQ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube.com/channel/UCQoL6twbRHSB8Hy-WLx0rxQ)
-[<img align="left" alt="truongchidien | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](facebook.com/truongchidien)
-[<img align="left" alt="dientc1501 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram/dientc1501)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube.com/channel/UCQoL6twbRHSB8Hy-WLx0rxQ)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](facebook.com/truongchidien)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram/dientc1501)
 
 ---
 
