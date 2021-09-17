@@ -11,9 +11,9 @@
 
 ### Contact me via:
 
-- [Youtube](youtube.com/channel/UCQoL6twbRHSB8Hy-WLx0rxQ)
-- [Facebook](facebook.com/truongchidien)
-- [Gmail](instagram/dientc1501)
+- [Instagram](https://www.instagram.com/dientc1501/)
+- [Facebook](https://www.facebook.com/truongchidien/)
+- [Gmail](19520464@gm.uit.edu.vn)
 
 ---
 
