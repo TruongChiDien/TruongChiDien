@@ -34,7 +34,7 @@
 
 
 <img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TruongChiDien&show_icons=true&theme=tokyonight" />
-<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact" />
+<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongChiDien&layout=compact" />
 <img align="left" alt="TruongChiDien's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=TruongChiDien" />
 
 
