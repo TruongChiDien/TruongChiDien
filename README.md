@@ -13,7 +13,7 @@
 
 - [Instagram](https://www.instagram.com/dientc1501/)
 - [Facebook](https://www.facebook.com/truongchidien/)
-- [Gmail](19520464@gm.uit.edu.vn)
+- [Gmail](mailto:19520464@gm.uit.edu.vn)
 
 ---
 
