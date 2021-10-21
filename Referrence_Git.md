@@ -1,2 +1,5 @@
 1. [Machine Learning Stanford](https://github.com/anishLearnsToCode/ml-stanford)
 2. [Hand-on Machine Learning 2](https://github.com/ageron/handson-ml2)
+3. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://github.com/MhLiao/TextBoxes)
+4. [Deep TextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
+5. [Dictionary-guided Scene Text Recognition](https://github.com/VinAIResearch/dict-guided)
