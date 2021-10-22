@@ -3,3 +3,4 @@
 3. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://github.com/MhLiao/TextBoxes)
 4. [Deep TextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 5. [Dictionary-guided Scene Text Recognition](https://github.com/VinAIResearch/dict-guided)
+6. [Revisiting Classification Perspective on Scene Text Recognition](https://github.com/Media-Smart/vedastr)
