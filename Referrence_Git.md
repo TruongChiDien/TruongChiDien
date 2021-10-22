@@ -4,3 +4,5 @@
 4. [Deep TextSpotter](https://github.com/MichalBusta/DeepTextSpotter)
 5. [Dictionary-guided Scene Text Recognition](https://github.com/VinAIResearch/dict-guided)
 6. [Revisiting Classification Perspective on Scene Text Recognition](https://github.com/Media-Smart/vedastr)
+7. [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+8. [Data Competition](https://github.com/fsoft-ailab/Data-Competition)
