@@ -6,3 +6,4 @@
 6. [Revisiting Classification Perspective on Scene Text Recognition](https://github.com/Media-Smart/vedastr)
 7. [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 8. [Data Competition](https://github.com/fsoft-ailab/Data-Competition)
+9. [Influence Function](https://github.com/kohpangwei/influence-release)
