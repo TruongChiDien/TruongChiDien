@@ -7,3 +7,4 @@
 7. [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 8. [Data Competition](https://github.com/fsoft-ailab/Data-Competition)
 9. [Influence Function](https://github.com/kohpangwei/influence-release)
+10. [Influence Function Pytorch](https://github.com/nimarb/pytorch_influence_functions)
